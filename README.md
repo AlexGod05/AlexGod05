@@ -38,12 +38,6 @@ Desarrollador Backend con más de 4 años de experiencia especializado en arquit
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## 🏆 Certificaciones
-
-- AWS Certified Developer - Associate
-- Scrum Foundation Professional Certificate
-- Professional Scrum Master I (PSM I)
-
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexGod05&show_icons=true&theme=radical)
